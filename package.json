@@ -1,0 +1,15 @@
+{
+  "name": "intro-jest",
+  "version": "1.0.0",
+  "description": "jest testing 101",
+  "main": "sum.js",
+  "scripts": {
+    "start": "node sum.js",
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
